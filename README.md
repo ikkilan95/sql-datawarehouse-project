@@ -1,4 +1,4 @@
-# SQL Data Warehouse: Sales Integration Project
+# SQL Data Warehouse: ETL with Medallion Architecture Approach
 
 ## 📌 Project Overview
 This project focuses on building a modern, structured SQL Data Warehouse using a **Medallion Architecture** approach. The primary goal is to integrate disparate data from ERP and CRM systems into a unified analytical environment to drive business intelligence and strategic decision-making.
